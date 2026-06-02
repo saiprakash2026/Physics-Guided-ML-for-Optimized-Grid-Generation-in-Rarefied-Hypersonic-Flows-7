@@ -1,0 +1,2 @@
+# Physics-Guided-ML-for-Optimized-Grid-Generation-in-Rarefied-Hypersonic-Flows-7
+A boundary condition–based machine learning (BCML) framework is developed for rarefied hypersonic flow-field prediction and mesh generation around re-entry bluff bodies. Trained on DSMC data, BCML predicts flow properties and generates mean-free-path-based meshes, reducing cell count and computational cost while maintaining accuracy."
